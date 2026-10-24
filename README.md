@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Lucio Junior</h1>
-  <p><strong>Desenvolvedor Back-end (Java) & Engenharia de Software</strong></p>
-  <p>Foco em desenvolvimento de microsserviços, sustentação e confiabilidade de sistemas, observabilidade e soluções de IA aplicada.</p>
+  <p><strong>Desenvolvedor Back-end (Java) & Engenharia de Inteligência Artificial</strong></p>
+  <p>Construção de microsserviços resilientes, observabilidade em nuvem e arquitetura de sistemas multi-agentes autônomos em produção.</p>
 
   <p>
     <a href="https://linkedin.com/in/lucio-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,16 +12,26 @@
 
 ---
 
-### Sobre
+### Perfil Técnico
 
-Desenvolvedor de software focado no ecossistema Back-end Java (Spring Boot, Quarkus) e arquiteturas escaláveis. Atuo na construção e manutenção de APIs REST, integração com bancos relacionais e legados, fluxos de mensageria assíncrona, além de práticas de observabilidade, infraestrutura em nuvem e automação com agentes de IA.
+Desenvolvedor Back-end com atuação centrada no ecossistema Java (Spring Boot, Quarkus) e em AI Engineering. Experiência prática na concepção e sustentação de microsserviços, mensageria assíncrona, observabilidade e integração de bancos relacionais e corporativos.
 
-- **Foco de atuação:** Microsserviços, sustentação e evolução de sistemas, arquitetura orientada a eventos.
+Na área de IA, foco em arquitetura e orquestração de **sistemas multi-agentes (Multi-Agent Systems)**: estruturação de squads autônomos operando em loops de feedback, integração de LLMs a ambientes de nuvem (AWS Bedrock, Lambda) e desenvolvimento de aplicações empresariais orientadas por inteligência artificial.
+
+- **Áreas de foco:** Microsserviços Java, orquestração de agentes de IA, observabilidade (SRE) e arquiteturas escaláveis em nuvem.
 - **Formação:** Bacharelando em Ciência da Computação (FAM).
 
 ---
 
 ### Tecnologias e Ferramentas
+
+#### IA Engineering & Multi-Agentes
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-GenAI_Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
 #### Back-end & Linguagens
 <p>
@@ -32,7 +42,7 @@ Desenvolvedor de software focado no ecossistema Back-end Java (Spring Boot, Quar
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-#### Bancos de Dados & Mensageria
+#### Dados & Mensageria
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2" />
@@ -48,13 +58,6 @@ Desenvolvedor de software focado no ecossistema Back-end Java (Spring Boot, Quar
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-#### IA & Automação
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
