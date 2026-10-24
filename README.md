@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Lucio Junior</h1>
-  <p><strong>Desenvolvedor Back-end (Java) & Engenharia de Inteligência Artificial</strong></p>
+  <p><strong>Desenvolvedor Back-end (Java & Python) & Engenharia de IA</strong></p>
   <p>Construção de microsserviços resilientes, observabilidade em nuvem e arquitetura de sistemas multi-agentes autônomos em produção.</p>
 
   <p>
@@ -14,11 +14,11 @@
 
 ### Perfil Técnico
 
-Desenvolvedor Back-end com atuação centrada no ecossistema Java (Spring Boot, Quarkus) e em AI Engineering. Experiência prática na concepção e sustentação de microsserviços, mensageria assíncrona, observabilidade e integração de bancos relacionais e corporativos.
+Desenvolvedor de Software com atuação consistente em **Java e Python**, combinando engenharia back-end robusta com **AI Engineering**. Experiência sólida na construção e sustentação de microsserviços de alta disponibilidade, mensageria assíncrona, observabilidade e integração com bancos relacionais e corporativos.
 
-Na área de IA, foco em arquitetura e orquestração de **sistemas multi-agentes (Multi-Agent Systems)**: estruturação de squads autônomos operando em loops de feedback, integração de LLMs a ambientes de nuvem (AWS Bedrock, Lambda) e desenvolvimento de aplicações empresariais orientadas por inteligência artificial.
+Com **Python**, desenvolvo soluções avançadas de automação corporativa, integração de APIs e arquitetura de **sistemas multi-agentes (Multi-Agent Systems)**: orquestração de squads autônomos com loops de feedback, integração de modelos de linguagem em nuvem (AWS Bedrock, Lambda) e fluxos complexos com LangChain e LangGraph.
 
-- **Áreas de foco:** Microsserviços Java, orquestração de agentes de IA, observabilidade (SRE) e arquiteturas escaláveis em nuvem.
+- **Foco principal:** Back-end corporativo (Java/Spring Boot, Quarkus), AI Engineering & Automações (Python), observabilidade (SRE) e infraestrutura em nuvem (AWS).
 - **Formação:** Bacharelando em Ciência da Computação (FAM).
 
 ---
@@ -27,6 +27,7 @@ Na área de IA, foco em arquitetura e orquestração de **sistemas multi-agentes
 
 #### IA Engineering & Multi-Agentes
 <p>
+  <img src="https://img.shields.io/badge/Python-IA_&_Core-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-GenAI_Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
