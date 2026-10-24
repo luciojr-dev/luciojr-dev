@@ -23,6 +23,13 @@ Com **Python**, desenvolvo soluções avançadas de automação corporativa, int
 
 ---
 
+### Projetos em Destaque
+
+- [**event-driven-payment-engine**](https://github.com/luciojr-dev/event-driven-payment-engine): Motor assíncrono de pagamentos de alta performance em **Java 21**, **Spring Boot 3.3**, **Apache Kafka (Redpanda)**, **PostgreSQL** e **Docker**. Implementa ingestão não-bloqueante (`HTTP 202`), garantia estrita de idempotência, motor antifraude, resiliência com retries exponenciais, Dead Letter Queue (DLQ) e dashboard web com gerador de massa de testes de 1 clique.
+- [**progresso-estudos-python**](https://github.com/luciojr-dev/progresso-estudos-python): Trilha de implementação prática em Python cobrindo desde lógica avançada, consumo de APIs até fundamentos de LLM (tokenização, embeddings, sampling e chat contextual).
+
+---
+
 ### Tecnologias e Ferramentas
 
 #### IA Engineering & Multi-Agentes
